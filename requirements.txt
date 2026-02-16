@@ -1,15 +1,5 @@
-ipykernel
+flask
 numpy
 pandas
-matplotlib
-seaborn
-streamlit
 scikit-learn
-bs4
-flask
-imblearn
-ydata-profiling
-ydata-profiling 
-ipywidgets
-openpyxl
 gunicorn
